@@ -12,6 +12,10 @@ Scalable (bulk) production could be done with minimal skilled workers, namely, a
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ouVc6szvl00/0.jpg)](http://www.youtube.com/watch?v=ouVc6szvl00 "Indo-Ventilator Demonstration")
 
+# 3D Animation
+
+![3D Animation](https://github.com/ksankark/indo-ventilator/raw/master/3D%20Demo/3Ddemo.gif)
+
 # Components Used
 
 The component selection is done considering the readily available components. The list of components used were given below.
